@@ -81,21 +81,8 @@ I'm a **Full Stack Developer** from India, currently studying **Computer Science
 | 🤖 Perplexity AI Clone <br><br>Full Stack AI Search Assistant inspired by Perplexity AI. Generates contextual responses using LLM APIs with secure authentication and chat history.<br><br>✨ Features:<br>• AI Conversations<br>• Authentication<br>• API Integration<br>• Markdown Rendering<br>• Responsive Chat UI<br>• Persistent Sessions<br><br>**Tech Stack:** MERN • Generative AI • REST APIs • JWT <br><br>🔗 **Live:** https://perplexity-6a72.onrender.com | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="120"/> |
 
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Piyushdotio&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushdotio&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=7" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushdotio&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="480" />
-
-</div>
 
 ---
 
