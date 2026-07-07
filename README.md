@@ -86,11 +86,7 @@ I'm a **Full Stack Developer** from India, currently studying **Computer Science
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushdotio&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true" width="95%" />
-</div>
+![Game Demo](game.gif)
 
 ---
 
