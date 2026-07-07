@@ -85,6 +85,8 @@ I'm a **Full Stack Developer** from India, currently studying **Computer Science
 
 
 ---
+Live Demo
+
 
 ![Game Demo](game.gif)
 
